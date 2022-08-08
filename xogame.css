@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+}
+
+.col-md-4 {
+    text-align: center;
+    background-color: rgb(139 149 147) !important;
+    margin-top: 3rem;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+h3 {
+    
+    text-align: center;
+    color: wheat;
+    padding: 1rem;
+    width: 100%;
+    border-radius: 1rem;
+    border: 0.2rem solid black;
+}
+
+td {
+    padding: 1rem;
+    font-weight: bold;
+}
+
+#reset {
+    margin-top: 1rem;
+    color: #ffe700;
+    font-size: 2rem;
+}
+
+span {
+    color: white;
+    font-size: 3em;
+}
+
+.bttn {
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+}
